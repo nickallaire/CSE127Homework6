@@ -1,4 +1,4 @@
-# CSE127: Introduction to Computer Security Homework 6
+# CSE 127: Introduction to Computer Security Homework 6
 
 Project Overview: The goal of this assignment is to gain hands-on experience with password cracking. Two types of passwords need to be cracked: unsalted vs salted. The following rules were used to dictate password formats used:
 
